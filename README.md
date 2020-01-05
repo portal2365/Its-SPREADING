@@ -1,2 +1,2 @@
-# Its-SPREADING
-The games is now compatible for phones!!
+# p5.play-boilerplate
+Boiler plate for p5.play
